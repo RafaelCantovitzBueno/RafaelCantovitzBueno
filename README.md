@@ -139,7 +139,7 @@ Olá! Meu nome é Rafael, tenho 20 anos e sou apaixonado por tecnologia. Atualme
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RafaelCantovitzBueno&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -147,7 +147,7 @@ Olá! Meu nome é Rafael, tenho 20 anos e sou apaixonado por tecnologia. Atualme
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="190" 
+      height="150" 
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCantovitzBueno&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
