@@ -1,25 +1,9 @@
-# 👨🏻‍💻 Rafael Cantovitz Bueno
-
-**`Desenvolvedor FullStack`**
-
-Olá! Meu nome é Rafael, tenho 20 anos e sou apaixonado por tecnologia. Atualmente estou cursando Analise e Desenvolvimento de Sistemas pela faculdade FATEC de Americana, onde estou tendo a oportunidade de trabalhar com diversas linguagens de programação, como C, Java e Python. Além disso, estou obtendo experiência no uso de bancos de dados SQL, manipulando ferramentas como PostgreeSQL, MariaDB e MongoDB.
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/rafaelcbueno1/">
-        <img 
-            alt="Linkedin" 
-            title="Me siga no Linkedin" 
-            src="https://img.shields.io/badge/Linkedin-%23026AA7.svg?style=for-the-badge&logo=person-add&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/RafaelCantovitzBueno?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/RafaelCantovitzBueno?color=55960c&labelColor=488207&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2272F7&width=435&lines=Ol%C3%A1%2C+sou+Rafael!)](https://git.io/typing-svg)
+👨🏻‍💻| Desenvolvedor
+<br>
+📈| Buscando sempre evoluir
+<br>
+🖥️| Apaixonado por tecnologia
 
 ---
 
@@ -130,8 +114,10 @@ Olá! Meu nome é Rafael, tenho 20 anos e sou apaixonado por tecnologia. Atualme
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
+<br>
+<br>
+
+---
 
 ### 📊 Estatísticas
 
@@ -153,3 +139,26 @@ Olá! Meu nome é Rafael, tenho 20 anos e sou apaixonado por tecnologia. Atualme
   />
 
 </p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### 📞 Contatos
+<p align="left">
+    <a href="https://www.linkedin.com/in/rafaelcbueno1/">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no Linkedin" 
+            src="https://img.shields.io/badge/Linkedin-%23026AA7.svg?style=for-the-badge&logo=person-add&logoColor=white"
+        />
+    </a>
+</p>
+
+
