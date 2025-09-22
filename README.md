@@ -9,7 +9,7 @@
 ---
 
 ### 🎓 Sobre mim
-<p>Iniciei meus estudos na área de Tecnologia da Informação em 2020, motivado pelo desejo de desenvolver um site simples. Comecei com HTML e CSS e, em seguida, aprofundei meus conhecimentos em JavaScript e Node.js. Em 2022, ingressei no curso superior de Análise e Desenvolvimento de Sistemas, onde adquiri uma base sólida e abrangente sobre a área. Durante a graduação, tive a oportunidade de trabalhar com diversas linguagens de programação, como C, Java e Python. Também desenvolvi aplicativo de jogos para dispositivos móveis, utilizando Kotlin e Java no Android Studio. Além disso, obtive experiência no uso de bancos de dados SQL, manipulando ferramentas amplamente reconhecidas no mercado, como PostgreSQL, MySQL Workbench e MariaDB. </p>
+<p>Profissional em formação na área de Tecnologia da Informação, com experiência prática em Java, Python, C#, C, JavaScript, TypeScript, HTML e CSS, além de APIs RESTful, bancos de dados relacionais (MySQL, PostgreSQL) e não relacionais (MongoDB). Conhecimento em Pacote Office, Power BI, Android Studio, VS Code, Linux e Windows, incluindo redes, estrutura de dados e hardware. Participação em projetos acadêmicos com metodologias ágeis (Scrum, Kanban), desenvolvendo habilidades de colaboração e comunicação. Atualmente curso Análise e Desenvolvimento de Sistemas na Fatec Americana e busco oportunidades para aplicar e expandir meus conhecimentos.</p>
 
 ---
 
